@@ -1,4 +1,3 @@
-JustinRParker.github.io
-=======================
+## Yo, I'm a Readme
 
-My page about me and my work as a Front End Engineer
+You should probably update me so people looking at your code have an idea what it is being used for :)
